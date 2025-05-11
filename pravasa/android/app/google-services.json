@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084076514520",
+    "project_id": "flutter-pro-firebase-9df43",
+    "storage_bucket": "flutter-pro-firebase-9df43.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084076514520:android:18e6d8c16111fc54b58bad",
+        "android_client_info": {
+          "package_name": "com.example.pravasa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgGZQD1MDDpuPYmg82eAkQe_9iPCfBQlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
